@@ -7,7 +7,7 @@ When you run the project, you can toss a coin by clicking on the button that app
 
 ## Screenshots
 
-![01!](/kura-cek/src/photos/01.png)
+![01!](kura-cek/src/photos/01.png)
 
 ## Packages Used
 
