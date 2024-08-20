@@ -15,21 +15,9 @@ The following packages were used during application development.
 
 `React`
 
-`React Router Dom`
+`React Material UI`
 
-`React Query`
 
-`Yup`
-
-`antd`
-
-`Formik`
-
-`Chakra UI`
-
-## Database
-
-`MongoDB`
 
 ## Begin
 
@@ -46,7 +34,7 @@ To run the project, you need to install the following packages.
 1. Clone Github repo
 
 ```bash
-  git clone https://github.com/furkanhdemir/React-E-Commerce-
+  git clone https://github.com/furkanhdemir/toss-a-coin-project
 ```
 
 2. Install NPM packages
@@ -55,13 +43,7 @@ To run the project, you need to install the following packages.
   npm install
 ```
 
-3. Run the backend (inside the backend folder)
-
-```bash
-  npm run dev
-```
-
-4. Run the client (inside the client folder)
+3. Run the kura-cek (inside the client folder)
 
 ```bash
   npm start
