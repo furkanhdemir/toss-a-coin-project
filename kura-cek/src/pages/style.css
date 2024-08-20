@@ -1,0 +1,41 @@
+.coin {
+  position: relative;
+
+  margin: 50px auto;
+  transform-style: preserve-3d;
+}
+
+#flip-button {
+  color: white;
+}
+
+.yazi {
+  margin-right: -100px;
+  backface-visibility: hidden;
+}
+
+.tura {
+  margin-left: -100px;
+  transform: rotateX(180deg);
+  backface-visibility: hidden;
+}
+
+@keyframes spin-yazi {
+  0% {
+    transform: rotateX(0);
+  }
+
+  100% {
+    transform: rotateX(1980deg);
+  }
+}
+
+@keyframes spin-tura {
+  0% {
+    transform: rotateX();
+  }
+
+  100% {
+    transform: rotateX(2160deg);
+  }
+}
